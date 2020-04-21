@@ -2,7 +2,7 @@
 dockerize tests with selenium. chrome/firefox browsers, local/remote
 
 
-docker pull selenium/hub
+docker pull selenium/hub/n
 docker pull selenium/node-chrome
 docker pull selenium/node-chrome-debug
 docker pull selenium/node-firefox
